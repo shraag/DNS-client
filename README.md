@@ -1,4 +1,4 @@
-# Project Title: Custom DNS Resolver
+# Project Title: DNS Client Implementation
 
 ## Table of Contents
 1. [Overview](#overview)
